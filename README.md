@@ -1,1 +1,1 @@
-# order_summary_component_maj
+# order_summary_component
